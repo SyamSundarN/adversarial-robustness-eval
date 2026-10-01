@@ -1,0 +1,8 @@
+torch
+torchvision
+torchattacks
+numpy
+pandas
+matplotlib
+tqdm
+git+https://github.com/fra31/auto-attack
